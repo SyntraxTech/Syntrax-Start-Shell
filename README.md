@@ -14,6 +14,7 @@ Syntrax Start Shell can do multiple different tasks, Simple and hard tasks. From
 **Simple, Personal, Yours. - Syntrax**
 
 
+![Start Shell icon](https://github.com/user-attachments/assets/6566f65a-262c-45ce-8ad9-a37d5361153b)
 
 
 
